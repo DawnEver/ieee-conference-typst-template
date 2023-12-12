@@ -17,6 +17,8 @@ Typst is a new markup-based typesetting system that is designed to be as powerfu
 - Top captions for tables.
 - ...
 
+## Preview
+See the [main.pdf](main.pdf).
 ![demo.png](demo.png)
 
 ## Usage:

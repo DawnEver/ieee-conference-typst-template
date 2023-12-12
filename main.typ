@@ -27,7 +27,7 @@
 = Introduction
 #lorem(30)
 
-Citation example of reference papers#cite("example")
+Citation example of reference papers#cite(<example>)
 
 = Theoretical Framework
 #lorem(30) 
