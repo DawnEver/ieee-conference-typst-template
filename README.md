@@ -3,7 +3,7 @@ I am preparing for IEEE cofference these days. Frustrated with Latex, I choose T
 
 In fact, typst app provides built-in IEEE paper template and [ieee-typst-template](https://github.com/bsp0109/ieee-typst-template) gives a modified edition for author's requiements, but they are not enough.
 
-Based on Word and Latex templates and guidelines, I diy my Typst template.
+Based on Word and Latex templates and format guidelines, I diy my Typst template.
 
 
 ## What is Typst
